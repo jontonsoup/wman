@@ -11,11 +11,11 @@ Installing
 
 2. Next run this script:
 
-	`curl https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh`
+`curl https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh`
 
 or this one (depending on your preference):
 
-	`wget https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh`
+`wget https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh`
 
 
 3. Enjoy the script!
