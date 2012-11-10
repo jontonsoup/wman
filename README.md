@@ -11,7 +11,12 @@ Installing
 
 2. Run this script
 
+	curl https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh
+
+or this one (depending on your preference):
+
 	wget https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh
+
 
 3. Enjoy the script!
 	wman alan turing
