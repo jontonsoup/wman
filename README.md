@@ -18,7 +18,7 @@ or this one (depending on your preference):
 `wget https://raw.github.com/jontonsoup/wman/master/install.sh && /bin/sh ./install.sh`
 
 
-3. Enjoy the script!
-	examples:
-	wman alan turing
-	wman wait
+Enjoy the script!
+examples:
+`wman alan turing`
+`wman wait`
