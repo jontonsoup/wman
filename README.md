@@ -11,7 +11,7 @@ Installing
 
 2. Run this script
 
-	wget https://github.com/jontonsoup/wman/blob/master/install.sh | /bin/sh ./install.sh
+	wget https://github.com/jontonsoup/wman/blob/master/install.sh && /bin/sh ./install.sh
 
 3. Enjoy the script!
 	wman alan turing
