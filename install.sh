@@ -9,4 +9,4 @@ cp wman.rb /usr/local/bin/wman
 cd ..
 rm -rf wman
 echo "Done! Enjoy slightly enhanced man pages! (Remember Pandoc http://johnmacfarlane.net/pandoc/installing.html is also a dependency and is not installed in a script!)"
-echo "Try: wget alan turing"
+echo "Try: wman alan turing"
