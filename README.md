@@ -7,7 +7,8 @@ This is just a simple app I wrote for myself, so I make no guarantees it will wo
 Installing
 ---------------------
 
-1. This script requires pandoc as a dependency. Install it here: http://johnmacfarlane.net/pandoc/installing.html.
+1. This script requires pandoc as a dependency. Install it here: http://johnmacfarlane.net/pandoc/installing.html. It also
+requires ruby and bundler / Gem.
 
 2. Next run this script:
 
